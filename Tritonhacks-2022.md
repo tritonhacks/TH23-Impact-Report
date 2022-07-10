@@ -8,11 +8,7 @@
 
 #### La Jolla, CA, USA
 
-<br>
-
 ## Event Summary
-
-<hr>
 
 TritonHacks is a two-day high school level hackathon aimed at providing greater access to CS education, specifically for disadvantaged local communities lacking their own resources to prepare students for careers in STEM fields.
 
@@ -28,15 +24,11 @@ GitHub was part of the submission process for our hackathon that all hackers wen
 
 ## Event Metrics
 
-<hr>
-
 | Attendees | First Time Hackers |                                               Projects |
 | --------: | -----------------: | -----------------------------------------------------: |
-|        69 |                 63 | 23 (https://tritonhacks22.devpost.com/project-gallery) |
+|        69 |                 63 | 23 ([Project Gallery](https://tritonhacks22.devpost.com/project-gallery)) |
 
 ## Tech Impact / Diversity
-
-<hr>
 
 ### Tell us about your hacker demographics
 
@@ -56,13 +48,9 @@ As the objective of our hackathon was to reach out to San Diegan high school stu
 
 ## Impact of GitHub Grant
 
-<hr>
-
 Using the GitHub Grant funds, we were able to purchase the prizes for the attendees. Since the prizes were the incentives for the hackers to compete for one category over another, being able to afford nicer prizes created a greater incentive for more hackers to apply and let us reward more students for their creativity and enthusiasm!
 
 ## Top Projects
-
-<hr>
 
 While all the projects can be found on our [Devpost gallery](https://tritonhacks22.devpost.com/project-gallery), here's a little about the grand prize winners! Each of the projects are hosted on GitHub repos for everybody to see how the project was built at the end. Some teams used GitHub for collaboration during this event.
 
@@ -113,8 +101,6 @@ All of the photos can be found on our [public album](https://drive.google.com/dr
 |       **Girls that code**        |
 
 ## What’s Next?
-
-<hr>
 
 TritonHacks is an annual hackathon. Our next event will likely take place around the same time next year (May 2023). This year, in our second iteration of TritonHacks, we were able to finally host an in-person event and by doing so, we laid a foundation for future iterations of the event and learned the various responsibilities required to host a hackathon. By scaling up our event next year, we can hopefully reach a bigger audience who may not have known about the event or been comfortable enough to attend this year.
 
