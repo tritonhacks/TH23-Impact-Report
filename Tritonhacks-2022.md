@@ -10,7 +10,7 @@
 
 ## Event Summary
 
-TritonHacks is a two-day high school level hackathon aimed at providing greater access to CS education, specifically for disadvantaged local communities lacking their own resources to prepare students for careers in STEM fields.
+TritonHacks is a two-day high school level hackathon aimed at providing greater access to CS education, specifically for disadvantaged local communities lacking their own resources to prepare students for careers in STEM fields. All aspects of the hackathon are arranged by members of CSforeach, a student organization at UC San Diego that strives to make access to CS opportunities and resources more equitable for each and every student.
 
 In addition to typical hackathon incentives such as workshops, teams, event swag and prizes, we placed an emphasis on individual mentorship during the hackathon to ensure that beginners have ways to reach out for help and unblock themselves on their projects. Every student that participated in TritonHacks had access to tutors to help with code debugging and a mentor to their team that checked in with them regularly as a point of contact and welcoming figure.
 
@@ -26,7 +26,7 @@ We hosted a couple non-technical and technical workshops to help students in the
 | --------: | -----------------------------------------------------: |
 |        84 |  23 ([Project Gallery](https://tritonhacks22.devpost.com/project-gallery)) |
 
-##### Attendees: 84
+##### Attendees: 84 (22% increase from last year)
 ##### Projects: 24 [Project Gallery](https://tritonhacks23.devpost.com/project-gallery)
 
 ##### Out of 46 feedback form respondents:
@@ -56,10 +56,6 @@ As the objective of our hackathon was to reach out to San Diegan high school stu
 | Yes | No | 
 | -----------: | ------------: | 
 |            21 |            60 | 
-
-## Impact of GitHub Grant
-
-Using the GitHub Grant funds, we were able to purchase the prizes for the attendees. Since the prizes were the incentives for the hackers to compete for one category over another, being able to afford nicer prizes created a greater incentive for more hackers to apply and let us reward more students for their creativity and enthusiasm!
 
 ## Top Projects
 
